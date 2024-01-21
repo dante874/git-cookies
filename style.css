@@ -1,0 +1,40 @@
+body {
+    background-color: blueviolet;
+    color:white;
+    
+    
+}
+button {
+    color: rgb(14, 14, 11);
+    margin-left: 500px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    
+}
+#resetClicker {
+
+    margin-top: 50px;
+}
+
+
+
+
+#cookie.hover {
+    color: red;
+}
+div {
+    color: rgb(215, 218, 15);
+    background-color: black;
+    margin-bottom: 50px;
+    margin-top:50px;
+    display: flex;
+    flex-direction: column;
+
+
+
+
+
+
+}
